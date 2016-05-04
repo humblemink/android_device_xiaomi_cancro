@@ -1,7 +1,7 @@
 Copyright 2015 - The CyanogenMod Project
 
 Xiaomi Mi3 and Mi4
-==============
+=============
 
 The Xiaomi Mi3 (codenamed _"Cancro"_) is a high-end smartphone from Xiaomi.
 
