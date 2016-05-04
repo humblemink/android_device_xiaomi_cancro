@@ -5,7 +5,7 @@ Xiaomi Mi3 and Mi4
 
 The Xiaomi Mi3 (codenamed _"Cancro"_) is a high-end smartphone from Xiaomi.
 
-he Xiaomi Mi4 (codanamed _"Cancro"_) is a high-end smartphone from Xiaomi.
+The Xiaomi Mi4 (codanamed _"Cancro"_) is a high-end smartphone from Xiaomi.
 
 Mi3 was announced in September 2013.
 
