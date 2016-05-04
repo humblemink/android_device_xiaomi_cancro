@@ -9,7 +9,7 @@ he Xiaomi Mi4 (codanamed _"Cancro"_) is a high-end smartphone from Xiaomi.
 
 Mi3 was announced in September 2013.
 
-Mi4 was announced in July 2014.
+xxxxxMi4 was announced in July 2014.
 
 Basic   | Mi3                               | Mi4
 -------:|:---------------------------------:|------------------------------
